@@ -31,3 +31,8 @@ Here are the options for text cosine similarity libraries:
 - [spaCy](https://spacy.io/)
 - [NLTK](https://www.nltk.org/)
 - [Gensim](https://radimrehurek.com/gensim/)
+
+
+## Why we picked Sentence Transformers?
+
+Sentence Transformers is a library that provides a wide range of pre-trained models for sentence embeddings. It is a popular choice for text similarity tasks because it offers a large number of pre-trained models, including multilingual models, which can be used for cross-lingual similarity tasks.
